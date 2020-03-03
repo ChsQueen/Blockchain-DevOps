@@ -19,8 +19,8 @@ Enjoyed the challenge? Intrested in Insight? Send a PDF containing your dashboar
     * What is AWS? [(link)](https://youtu.be/qcY-uiEHhn0)
     * How to create an AWS account. [(link)](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
     * Launching and ssh-ing into your first EC2 instance. [(link)](https://docs.aws.amazon.com/quickstarts/latest/vmlaunch/step-1-launch-instance.html) [(link)](https://youtu.be/BCM9aaaWvR0)
-         * Bash commands and scripting 101 [(link)](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
-1.a. Install your preferred blockchain node CLI on 2 EC2 instances.
+         * Bash commands and scripting 101 [(link)](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) 
+    * Install your preferred blockchain node CLI on 2 EC2 instances.
 2. Configure Prometheus to monitor 2 EC2 instances.
     * What is Prometheus? [(link)](https://prometheus.io/docs/introduction/overview/)
 3. Connect Prometheus to Grafana.
